@@ -1,1 +1,13 @@
-/* your code */
+/*ONS your code */
+thead{
+	background-color:lightblue;
+	color:white;
+	border-radius:10px;
+}
+
+tr:nth-child(even){
+	background-color:lightgrey;
+}
+table{
+	border-radius:10px;
+}
